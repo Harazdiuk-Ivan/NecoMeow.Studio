@@ -42,5 +42,6 @@
 }
 
 .info p{
-    color: rgb(190, 210, 102);
+    /* color: rgb(190, 210, 102); */
+    color: white;
 }
