@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Secular One&display=swap');
+
+body {
+    font-family: Secular One, Arial;
+    background-color: rgb(28,28,28);
+    
+    
+}
+
+.navbar-brand img {
+    width: 100px;
+}
+
+.navbar-toggler {
+    background-color: aliceblue;
+}
+
+.slide-text {
+    color: aliceblue;
+    margin: auto auto;
+}
+
+.nav-link {
+    color: aliceblue;
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(115, 117, 247);
+    /* color: rgb(188, 189, 245); */
+
+} 
+.navbar-nav .nav-link:hover{
+    color: rgb(255, 255, 255);
+}
+
+
+/*  */
+
+.card {
+    background-color: rgb(178, 183, 255);
+}
+
+
+/* ---------------- */
+
+.footer-text {
+    color: aliceblue;
+    margin: auto auto;
+    font-size: 0.7em;
+    padding-top: 1em;
+}
+
+.vozrost-agr16 {
+    color: rgb(186, 5, 5);
+    border-bottom: 0.5px;
+    border-top: 0;
+    border-left: 0ch;
+    border-right: 0ch;
+    border-style: solid;
+    border-color: rgb(180, 4, 4);
+}
+
+footer{
+    background-color: rgb(33,37,41);
+}
+
+.media-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*  */
+.carousel{
+    padding-top: 3em;
+    
+}
+
+.carousel-indicators>buttom{
+    margin-top: 4em;
+}
+
